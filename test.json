@@ -1,5 +1,5 @@
 [
-	{api:"abcde", timeout:100},
- 	{api:"zy", timeout:null}
+	{"api":"abcde", "timeout":100},
+ 	{"api":"zy", "timeout":null}
   
 ]
